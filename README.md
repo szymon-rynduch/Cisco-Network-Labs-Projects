@@ -1,4 +1,4 @@
-#**Cisco-Network-Labs-Projects**
+#Cisco-Network-Labs-Projects
 
 Poniższe repozytorium zawiera zestaw praktycznych projektów i symulacji sieciowych zrealizowanych w środowisku Cisco Packet Tracer. 
 Celem repozytorium jest rozwój oraz dokumentacja praktycznych umiejętności z zakresu administracji sieciami, konfiguracji urządzeń Cisco oraz wdrażania podstawowych mechanizmów bezpieczeństwa.
